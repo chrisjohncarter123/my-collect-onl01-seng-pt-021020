@@ -17,6 +17,6 @@ my_collect(array) do |name|
   name.split(" ").first
 end
 
-puts array
+
 
 #["Tim", "Tom", "Jim"]
