@@ -8,6 +8,7 @@ def my_collect(array)
     i += 1
   end
   array = result
+  array
 end
 
 
